@@ -6,7 +6,7 @@ on the `n × n` grid** for every size whose outcome was open: `6 ≤ n ≤ 14`.
 Two players alternately mark cells of an `n × n` grid. The first to own four
 cells at the corners of a square with horizontal and vertical sides wins; if the
 board fills with neither doing so, the game is a draw. The problem is Martin
-Erickson's, catalogued on
+Erickson's, cataloged on
 [Open Problem Garden](http://www.openproblemgarden.org/op/a_game_on_an_n_x_n_grid).
 The outcome was known only for `n ≤ 5` (Jenrich 2012) and `n ≥ 15`
 (Bacher–Eliahou 2010 plus strategy stealing). The nine sizes in between were

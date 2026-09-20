@@ -12,7 +12,7 @@ import SquareGame.Cert14
 # The result
 
 The nine board sizes whose outcome was open: `n = 6 … 14`.  Below them, Jenrich
-settled `n ≤ 5` in 2012; above them, no square-free two-colouring of the 15 × 15
+settled `n ≤ 5` in 2012; above them, no square-free two-coloring of the 15 × 15
 grid exists (Bacher–Eliahou 2010), so the game cannot be drawn and strategy
 stealing rules out a second-player win.
 -/
