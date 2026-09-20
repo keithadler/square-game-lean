@@ -1,0 +1,5 @@
+name = "squaregame"
+defaultTargets = ["SquareGame"]
+
+[[lean_lib]]
+name = "SquareGame"
