@@ -110,7 +110,7 @@ Lean 4 kernel on .NET that shares no code with Lean's own:
 
 ```
 $ tenet check .
-OK: 215 checked in 11 modules, 0 failed, 660 modules mapped, 4.8s
+OK: 204 checked in 12 modules, 0 failed, 680 modules mapped, 4.4s
 ```
 
 ## Building
@@ -119,5 +119,5 @@ OK: 215 checked in 11 modules, 0 failed, 660 modules mapped, 4.8s
 lake build
 ```
 
-Lean 4.34.0, pinned in `lean-toolchain`. The certificates are large literals;
-`Cert14` takes about an hour to elaborate and its `.olean` is 515 MB.
+Lean 4.36.0, pinned in `lean-toolchain`. The certificates are large literals;
+`Cert14` takes about an hour to elaborate and its `.olean` is 540 MB.
